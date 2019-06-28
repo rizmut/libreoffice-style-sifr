@@ -222,6 +222,13 @@ cmd/sc_deleteallnotes.png cmd/sc_deleteallannotation.png
 cmd/lc_deleteallnotes.png cmd/lc_deleteallannotation.png
 cmd/sc_formatallnotes.png cmd/sc_editannotation.png
 
+# Locale
+cmd/fr/lc_numberformatdecimal.png cmd/de/lc_numberformatdecimal.png
+cmd/fr/lc_numberformatthousands.png cmd/de/lc_numberformatthousands.png
+
+cmd/fr/sc_numberformatdecimal.png cmd/de/sc_numberformatdecimal.png
+cmd/fr/sc_numberformatthousands.png cmd/de/sc_numberformatthousands.png
+
 # Media
 cmd/lc_datastreamsplay.png cmd/lc_mediaplay.png
 cmd/sc_datastreamsplay.png cmd/sc_mediaplay.png
