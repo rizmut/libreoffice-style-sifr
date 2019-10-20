@@ -618,6 +618,8 @@ cmd/lc_exporttopdf.png cmd/lc_exportdirecttopdf.png
 cmd/sc_exporttopdf.png cmd/sc_exportdirecttopdf.png
 cmd/lc_exporttoepub.png cmd/lc_exportdirecttoepub.png
 cmd/sc_exporttoepub.png cmd/sc_exportdirecttoepub.png
+cmd/lc_templatemenu.png cmd/lc_templatemanager.png
+cmd/sc_templatemenu.png cmd/sc_templatemanager.png
 
 # Square
 cmd/lc_basicshapes.quadrat.png cmd/lc_square.png
