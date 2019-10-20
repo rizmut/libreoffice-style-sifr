@@ -564,14 +564,12 @@ cmd/lc_pageformatdialog.png cmd/lc_pagedialog.png
 # Shapes
 cmd/lc_basicshapes.png cmd/lc_basicshapes.diamond.png
 cmd/lc_basicshapes.ellipse.png cmd/lc_ellipse.png
-cmd/lc_basicshapes.rectangle.png cmd/lc_rect.png
-cmd/lc_rectangletoolbox.png cmd/lc_rect.png
+cmd/lc_rectangletoolbox.png cmd/lc_basicshapes.rectangle.png
 cmd/lc_linetoolbox.png cmd/lc_freeline.png
 cmd/lc_ellipsetoolbox.png cmd/lc_ellipse.png
 cmd/sc_basicshapes.png cmd/sc_basicshapes.diamond.png
 cmd/sc_basicshapes.ellipse.png cmd/sc_ellipse.png
-cmd/sc_basicshapes.rectangle.png cmd/sc_rect.png
-cmd/sc_rectangletoolbox.png cmd/sc_rect.png
+cmd/sc_rectangletoolbox.png cmd/sc_basicshapes.rectangle.png
 cmd/sc_linetoolbox.png cmd/sc_freeline.png
 cmd/sc_ellipsetoolbox.png cmd/sc_ellipse.png
 
@@ -614,6 +612,8 @@ cmd/lc_findbar.png cmd/lc_recsearch.png
 cmd/sc_findbar.png cmd/sc_recsearch.png
 
 # File Menu
+cmd/lc_exportasmenu.png cmd/lc_exportto.png
+cmd/sc_exportasmenu.png cmd/sc_exportto.png
 cmd/lc_exporttopdf.png cmd/lc_exportdirecttopdf.png
 cmd/sc_exporttopdf.png cmd/sc_exportdirecttopdf.png
 cmd/lc_exporttoepub.png cmd/lc_exportdirecttoepub.png
@@ -1077,6 +1077,10 @@ sc/res/lc26047.png cmd/lc_dbviewfunctions.png
 sc/res/lc26048.png cmd/lc_autosum.png
 sc/res/lc26050.png cmd/lc_cancel.png
 sc/res/lc26051.png cmd/lc_ok.png
+sc/res/na03.png cmd/sc_dataranges.png
+sc/res/na05.png cmd/sc_upsearch.png
+sc/res/na06.png cmd/sc_downsearch.png
+sc/res/na07.png cmd/sc_thesaurus.png
 sc/res/na09.png cmd/sc_animationeffects.png
 sc/res/na010.png cmd/sc_selectobject.png
 sc/res/na011.png cmd/lc_ok.png
@@ -1093,10 +1097,7 @@ sc/res/sc26048.png cmd/sc_autosum.png
 sc/res/sc26050.png cmd/sc_cancel.png
 sc/res/sc26051.png cmd/sc_ok.png
 sc/res/dropurl.png cmd/sc_inserthyperlink.png
-sc/res/na03.png cmd/sc_dataranges.png
-sc/res/na05.png cmd/sc_upsearch.png
-sc/res/na06.png cmd/sc_downsearch.png
-sc/res/na07.png cmd/sc_thesaurus.png
+
 
 sc/res/date.png cmd/sc_datefield.png
 sc/res/dropcopy.png cmd/sc_copy.png
@@ -1237,7 +1238,7 @@ svx/res/caution_11x16.png dbaccess/res/exwarning.png
 svx/res/cd01.png cmd/sc_ok.png
 svx/res/cd02.png cmd/sc_crop.png
 svx/res/cd05.png cmd/sc_selectobject.png
-svx/res/cd06.png cmd/sc_rect.png
+svx/res/cd06.png cmd/sc_basicshapes.rectangle.png
 svx/res/cd07.png cmd/sc_ellipse.png
 svx/res/cd08.png cmd/sc_polygon.png
 svx/res/cd015.png cmd/sc_toggleobjectbeziermode.png
@@ -1279,7 +1280,7 @@ svx/res/id01.png cmd/sc_ok.png
 svx/res/id02.png cmd/sc_open.png
 svx/res/id03.png cmd/sc_save.png
 svx/res/id04.png cmd/sc_selectobject.png
-svx/res/id05.png cmd/sc_rect.png
+svx/res/id05.png cmd/sc_basicshapes.rectangle.png
 svx/res/id06.png cmd/sc_ellipse.png
 svx/res/id07.png cmd/sc_polygon.png
 svx/res/id018.png cmd/sc_controlproperties.png
@@ -1523,6 +1524,16 @@ cmd/sc_numberingmenu.png cmd/sc_outlinebullet.png
 # writer standard toolbar
 cmd/sc_charmapcontrol.png cmd/sc_insertsymbol.png
 
+# Writer menu: MSO compatible Form menu
+cmd/sc_textformfield.png cmd/sc_edit.png
+cmd/lc_textformfield.png cmd/lc_edit.png
+cmd/sc_checkboxformfield.png cmd/sc_checkbox.png
+cmd/lc_checkboxformfield.png cmd/lc_checkbox.png
+cmd/sc_dropdownformfield.png cmd/sc_combobox.png
+cmd/lc_dropdownformfield.png cmd/lc_combobox.png
+cmd/sc_datepickerformfield.png cmd/sc_datefield.png
+cmd/lc_datepickerformfield.png cmd/lc_datefield.png
+
 # Vertical Text Alignment
 cmd/lc_cellverttop.png cmd/lc_aligntop.png
 cmd/lc_cellvertcenter.png cmd/lc_alignverticalcenter.png
@@ -1558,9 +1569,14 @@ cmd/sc_notecellstyles.png cmd/sc_shownote.png
 # sw
 # ==============================================
 # res
+sw/res/all_left.png cmd/sc_firstpage.png
+sw/res/all_right.png cmd/sc_lastrecord.png
+sw/res/one_left.png cmd/sc_navigateback.png
+sw/res/one_right.png cmd/sc_navigateforward.png
 sw/res/lc20556.png cmd/lc_dbviewfunctions.png
 sw/res/lc20557.png cmd/lc_cancel.png
 sw/res/lc20558.png cmd/lc_ok.png
+sw/res/nc20000.png cmd/sc_editheaderandfooter.png
 sw/res/nc20001.png cmd/sc_inserttable.png
 sw/res/nc20002.png cmd/sc_insertframe.png
 sw/res/nc20003.png cmd/sc_insertgraphic.png
@@ -1584,15 +1600,15 @@ sw/res/sc20171.png cmd/sc_downsearch.png
 sw/res/sc20172.png cmd/sc_prevrecord.png
 sw/res/sc20173.png cmd/sc_nextrecord.png
 sw/res/sc20174.png cmd/sc_upsearch.png
-sw/res/sc20175.png cmd/sc_nextrecord.png
+sw/res/sc20177.png cmd/sc_insertpagefooter.png
+sw/res/sc20179.png cmd/sc_insertpageheader.png
 sw/res/sc20182.png cmd/sc_toggleanchortype.png
-sw/res/sc20186.png cmd/sc_prevrecord.png
 sw/res/sc20233.png cmd/sc_ok.png
 sw/res/sc20235.png cmd/sc_inserthyperlink.png
 sw/res/sc20238.png cmd/sc_insertbookmark.png
 sw/res/sc20239.png cmd/sc_copy.png
-sw/res/sc20245.png cmd/sc_insertdraw.png
-sw/res/sc20246.png cmd/sc_insertbookmark.png
+sw/res/sc20245.png cmd/sc_editdoc.png
+sw/res/sc20246.png cmd/sc_reload.png
 sw/res/sc20248.png cmd/sc_save.png
 sw/res/sc20249.png cmd/sc_navigator.png
 sw/res/sc20556.png cmd/sc_dbviewfunctions.png
@@ -1621,7 +1637,6 @@ sw/res/sr20008.png cmd/sc_insertbookmark.png
 sw/res/sr20009.png cmd/sc_insertgraphic.png
 sw/res/sr20010.png cmd/sc_objectmenue.png
 sw/res/sr20011.png cmd/sc_editheaderandfooter.png
-sw/res/nc20000.png cmd/sc_editheaderandfooter.png
 sw/res/sr20013.png cmd/sc_insertfootnote.png
 sw/res/sr20014.png sw/res/sc20183.png
 sw/res/sr20015.png cmd/sc_shownote.png
