@@ -10,7 +10,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg4"
-   sodipodi:docname="lc_alphalowliststyle.svg"
+   sodipodi:docname="alphalowliststyle.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    width="32"
    height="32">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,17 +40,18 @@
      inkscape:window-width="1366"
      inkscape:window-height="704"
      id="namedview6"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     showgrid="true"
+     inkscape:zoom="27.812867"
+     inkscape:cx="15.267764"
+     inkscape:cy="9.0304988"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
      inkscape:pagecheckerboard="false"
      inkscape:snap-global="true"
-     inkscape:snap-page="true">
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid836"
@@ -58,8 +59,9 @@
        spacingy="0.5" />
   </sodipodi:namedview>
   <path
-     d="m 20.574388,3.4204336 v 2.2871938 h 4.574388 v 2.2871938 h -4.574388 c -1.257956,0 -2.287194,1.0292373 -2.287194,2.2871938 v 2.287193 c 0,1.257957 1.029238,2.287194 2.287194,2.287194 H 27.43597 V 12.569208 5.7076274 c 0,-1.2579566 -1.029238,-2.2871938 -2.287194,-2.2871938 z M 4.5640305,5.7076274 V 7.9948212 H 16 V 5.7076274 Z m 4.5743876,4.5743876 v 2.287193 H 16 v -2.287193 z m 11.4359699,0 h 4.574388 v 2.287193 h -4.574388 z m -2.287194,6.861582 v 11.435969 h 2.287194 4.574388 c 1.257956,0 2.287194,-1.029237 2.287194,-2.287194 v -2.287194 c 0,-1.257957 -1.029238,-2.287194 -2.287194,-2.287194 H 20.574388 V 17.143597 Z M 4.5640305,18.287193 v 2.287194 H 16 v -2.287194 z m 6.8615815,4.574388 v 2.287194 H 16 v -2.287194 z m 9.148776,1.143597 h 4.574388 v 2.287194 h -4.574388 z"
+     d="m 20.5,3 v 2.5 h 5.100001 V 7.81626 H 20.8 c -1.319999,0 -2.285593,1.0423171 -2.285593,2.31626 v 2.316259 c 0,1.273944 0.956605,2.545074 2.276604,2.545074 h 7.200001 l 0.009,-2.545074 V 5.5 c 0,-1.2739431 -1.080001,-2.5 -2.4,-2.5 z M 4,5.5 V 7.81626 H 16 V 5.5 Z m 4.8,4.63252 v 2.316259 H 16 V 10.13252 Z m 12,0 h 4.800001 v 2.316259 H 20.8 Z M 18.5,17 v 11.662602 h 2.3 4.800001 c 1.319999,0 2.4,-1.042318 2.4,-2.316261 v -2.31626 c 0,-1.273944 -1.080001,-2.31626 -2.4,-2.31626 H 20.8 V 17 Z M 4,18.239431 v 2.31626 h 12 v -2.31626 z m 7.200001,4.63252 v 2.31626 H 16 v -2.31626 z M 20.8,24.030081 h 4.800001 v 2.31626 H 20.8 Z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#555753;stroke-width:0.99999994" />
+     style="fill:#555753;stroke-width:0.99999994"
+     sodipodi:nodetypes="ccccssssccsscccccccccccccccccccsssscccccccccccccccccc" />
 </svg>
