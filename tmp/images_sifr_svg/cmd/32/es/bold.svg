@@ -41,24 +41,26 @@
      inkscape:window-height="704"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="6.9532167"
-     inkscape:cx="-5.3617726"
-     inkscape:cy="8.803495"
+     inkscape:zoom="13.906433"
+     inkscape:cx="16.503892"
+     inkscape:cy="16.885556"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     inkscape:snap-page="true"
-     inkscape:snap-grids="false">
+     inkscape:snap-global="true"
+     inkscape:snap-page="true">
     <inkscape:grid
        type="xygrid"
        id="grid836"
        spacingx="0.5"
-       spacingy="0.5" />
+       spacingy="0.5"
+       empspacing="2" />
   </sodipodi:namedview>
   <path
-     d="M 4.2193418,3.4830501 V 15.263709 28.51695 H 10.109671 V 15.263709 A 5.8903292,5.8903292 0 0 1 16,9.3733794 5.8903292,5.8903292 0 0 1 21.890329,15.263709 V 28.51695 h 5.890329 V 15.263709 A 11.780658,11.780658 0 0 0 16,3.4830501 11.780658,11.780658 0 0 0 10.109671,5.0735539 V 3.4830501 Z"
+     d="M 4,3 V 15.235294 29 h 6 V 15.235294 c 0,-3.378683 2.366269,-6.2434874 5.748636,-6.243488 3.382368,2e-7 6.251455,2.6311 6.251437,6.009783 L 22,29 h 5.997273 V 15.235294 C 27.997273,8.4779277 22.513371,3 15.748636,3 13.59741,3.0038136 11.86081,3.5735081 10,4.6517647 V 3 Z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#555753;stroke-width:1.00000012" />
+     style="fill:#555753;stroke-width:0.99999988"
+     sodipodi:nodetypes="ccccsssccscccc" />
 </svg>

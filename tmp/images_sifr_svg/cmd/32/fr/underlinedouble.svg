@@ -11,9 +11,9 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="underlinedouble.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    width="32"
-   height="32">
+   height="32"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -38,27 +38,30 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-height="707"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="11.186441"
+     inkscape:zoom="19.666667"
+     inkscape:cx="6.7608795"
+     inkscape:cy="19.32631"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     inkscape:snap-grids="false"
-     inkscape:snap-page="true">
+     inkscape:snap-page="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid836"
        spacingx="0.5"
-       spacingy="0.5" />
+       spacingy="0.5"
+       empspacing="2" />
   </sodipodi:namedview>
   <path
-     d="M 13.602906,3.4152543 A 5.992736,5.992736 0 0 0 7.6101693,9.4079901 5.992736,5.992736 0 0 0 13.602906,15.400726 h 3.595641 a 2.3970944,2.3970944 0 0 1 2.397095,2.397095 2.3970944,2.3970944 0 0 1 -2.397095,2.397094 H 7.6101693 v 1.198547 H 21.983373 a 5.992736,5.992736 0 0 0 1.20791,-3.595641 5.992736,5.992736 0 0 0 -5.992736,-5.992736 H 13.602906 A 2.3970944,2.3970944 0 0 1 11.205811,9.4079901 2.3970944,2.3970944 0 0 1 13.602906,7.0108957 h 8.38983 V 3.4152543 Z M 4.0145277,22.59201 v 2.397094 H 27.985472 V 22.59201 Z m 0,3.595641 v 2.397095 H 27.985472 v -2.397095 z"
+     d="m 13.57385,3 c -3.349814,0 -5.5260569,2.9782727 -5.5260568,6.3280872 -2e-7,3.3498148 2.1762418,6.7009688 5.5260568,6.7009688 h 3.639225 c 1.339926,0 2.731235,1.162495 2.731235,2.502421 0,1.339926 -1.391309,2.349879 -2.731235,2.349879 H 8 V 22 h 12.5 c 3,0 2.5,-3 2.5,-4.5 0,-3.349814 -2.437111,-5.516948 -5.786925,-5.516948 H 13.57385 c -1.339926,0 -2.42615,-1.213344 -2.42615,-2.5532699 0,-1.3399257 1.086224,-2.4007265 2.42615,-2.4007265 H 23 V 3 Z M 4,23 v 2 h 24 v -2 z m 0,3.946732 V 29 h 24 v -2.053268 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#555753;stroke-width:1" />
+     style="fill:#555753;stroke-width:1"
+     sodipodi:nodetypes="ssssssccccssssccscccccccccc" />
 </svg>

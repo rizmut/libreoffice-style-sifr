@@ -10,7 +10,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg4"
-   sodipodi:docname="underline.svg"
+   sodipodi:docname="underlinedouble.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    width="32"
    height="32">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,27 +38,29 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-height="707"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="11.186441"
+     inkscape:zoom="13.906433"
+     inkscape:cx="2.8953417"
+     inkscape:cy="20.590591"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
      inkscape:snap-page="true"
-     inkscape:snap-grids="false">
+     inkscape:snap-grids="true">
     <inkscape:grid
        type="xygrid"
        id="grid836"
+       spacingy="0.5"
        spacingx="0.5"
-       spacingy="0.5" />
+       empspacing="2" />
   </sodipodi:namedview>
   <path
-     d="M 9.0992735,3.9237285 V 21.175544 H 12.549637 V 15.42494 h 4.600484 c 3.175972,0 5.750606,-2.574634 5.750606,-5.7506061 0,-3.1759719 -2.574634,-5.7506054 -5.750606,-5.7506054 h -4.600484 z m 3.4503635,3.4503632 h 4.600484 c 1.270388,0 2.300242,1.0298541 2.300242,2.3002422 0,1.2703871 -1.029854,2.3002421 -2.300242,2.3002421 H 12.549637 Z M 4.4987891,22.325665 v 2.300244 H 27.501211 v -2.300244 z m 0,3.450364 v 2.300242 H 27.501211 v -2.300242 z"
+     d="m 8,3 v 18 h 4 v -6 l 5.213075,0.06296 c 3.349571,0.04045 6.065376,-2.385053 6.065376,-5.7348679 0,-3.3498149 -2.715607,-6.3274855 -6.065376,-6.3450367 l -4.8523,-0.025424 z m 4,4 5.035109,0.054479 c 1.339846,0.014497 3.03632,0.9336827 3.03632,2.2736078 0,2.1719132 -1.721867,2.6182082 -3.061744,2.6295412 L 12,12 Z M 4,22 v 3 h 24 v -3 z m 0,4 v 3 h 24 v -3 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#555753;stroke-width:1" />
+     style="fill:#555753;stroke-width:1"
+     sodipodi:nodetypes="ccccssscccssscccccccccccc" />
 </svg>

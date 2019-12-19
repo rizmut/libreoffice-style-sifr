@@ -38,27 +38,29 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-height="707"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="11.389191"
+     inkscape:zoom="13.906433"
+     inkscape:cx="16.535602"
+     inkscape:cy="13.208192"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
      inkscape:snap-page="true"
-     inkscape:snap-grids="false">
+     inkscape:snap-grids="true">
     <inkscape:grid
        type="xygrid"
        id="grid836"
        spacingx="0.5"
-       spacingy="0.5" />
+       spacingy="0.5"
+       empspacing="2" />
   </sodipodi:namedview>
   <path
-     d="M 9.7288135,3.4576273 V 7.220339 H 19.762712 c 1.385392,0 2.508475,1.123083 2.508475,2.5084746 V 10.983051 H 11.610169 c -3.1171322,0 -5.6440674,2.526936 -5.6440674,5.644068 0,1.791866 0.8422327,3.358654 2.1312236,4.38983 H 26.033898 V 9.7288136 c 0,-3.463481 -2.807705,-6.2711863 -6.271186,-6.2711863 z M 11.610169,14.745763 h 10.661018 v 3.762712 H 11.610169 c -1.039044,0 -1.8813555,-0.842312 -1.8813555,-1.881356 0,-1.039044 0.8423115,-1.881356 1.8813555,-1.881356 z m -8.152542,7.525424 v 2.508474 h 25.084746 v -2.508474 z m 0,3.762712 v 2.508474 h 25.084746 v -2.508474 z"
+     d="m 10,2.9902177 v 4.0143938 h 9.762712 c 1.385392,0 2.295122,1.3400182 2.237288,2.7242021 V 10.983051 H 11.610169 c -3.1171322,0 -5.6440674,2.526936 -5.6440674,5.644068 0,1.791866 0.8422327,3.358654 2.1312236,4.38983 H 26.033898 V 9.7288136 c 0,-3.463481 -2.807705,-6.7385959 -6.271186,-6.7385959 z M 11.610169,15 h 10.661018 v 4 H 11.610169 C 10.571125,19 10.052405,18.5 10.052405,16.627119 10.052405,15.588075 10.571125,15 11.610169,15 Z M 3,22 v 3 h 25 v -3 z m 0,4 v 3 h 25 v -3 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#555753;stroke-width:1" />
+     style="fill:#555753;stroke-width:1"
+     sodipodi:nodetypes="ccsscssccsscsccssscccccccccc" />
 </svg>

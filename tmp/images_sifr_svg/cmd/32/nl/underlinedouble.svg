@@ -38,27 +38,29 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-height="707"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="11.186441"
+     inkscape:zoom="13.906433"
+     inkscape:cx="11.829342"
+     inkscape:cy="20.767478"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
      inkscape:snap-page="true"
-     inkscape:snap-grids="false">
+     inkscape:snap-grids="true">
     <inkscape:grid
        type="xygrid"
        id="grid836"
        spacingx="0.5"
-       spacingy="0.5" />
+       spacingy="0.5"
+       empspacing="2" />
   </sodipodi:namedview>
   <path
-     d="m 12.346247,3.2118647 c -2.6905495,0 -4.8716707,2.1811213 -4.8716707,4.871671 V 19.044795 c 0,0.891902 0.2570985,1.716789 0.6755637,2.435835 h 15.69972 c 0.418465,-0.719046 0.675564,-1.543933 0.675564,-2.435835 V 8.0835357 c 0,-2.6905497 -2.18112,-4.871671 -4.87167,-4.871671 z m 0,3.6537531 h 7.307507 c 0.672637,0 1.217918,0.5452801 1.217918,1.2179179 V 19.044795 c 0,0.672637 -0.545281,1.217917 -1.217918,1.217917 h -7.307507 c -0.672637,0 -1.217917,-0.54528 -1.217917,-1.217917 V 8.0835357 c 0,-0.6726378 0.54528,-1.2179179 1.217917,-1.2179179 z M 3.8208233,22.698547 v 2.435836 H 28.179177 v -2.435836 z m 0,3.653754 v 2.435834 H 28.179177 v -2.435834 z"
+     d="m 11.996387,2.985472 c -2.6905495,0 -4.9733656,1.8251891 -4.9733656,4.5157388 V 18.46247 c 0,0.891902 0.3587934,1.818484 0.7772586,2.53753 H 22.5 c 0.418465,-0.719046 1.391042,-1.59478 1.391042,-2.486682 V 7.5520582 c 0,-2.6905497 -1.896598,-4.5665862 -4.587148,-4.5665862 z m 0,3.0435836 h 6.697338 c 0.672637,0 1.217918,0.8503648 1.217918,1.5230026 V 18.513318 c 0,0.672637 -0.341895,1.472154 -1.014529,1.472154 h -7.002422 c -0.672637,0 -0.96368,-1.206297 -0.96368,-1.878934 V 7.1452785 c 0,-0.6726378 0.392738,-1.1162229 1.065375,-1.1162229 z M 4,23 v 2 h 24 v -2 z m 0,3 v 2 h 24 v -2 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#555753;stroke-width:1" />
+     style="fill:#555753;stroke-width:1"
+     sodipodi:nodetypes="sssccssssssssssssscccccccccc" />
 </svg>

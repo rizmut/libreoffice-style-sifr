@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,9 +41,9 @@
      inkscape:window-height="704"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="27.812867"
-     inkscape:cx="15.267764"
-     inkscape:cy="9.0304988"
+     inkscape:zoom="13.906434"
+     inkscape:cx="6.9989431"
+     inkscape:cy="17.94"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,10 +56,11 @@
        type="xygrid"
        id="grid836"
        spacingx="0.5"
-       spacingy="0.5" />
+       spacingy="0.5"
+       empspacing="2" />
   </sodipodi:namedview>
   <path
-     d="m 20.5,3 v 2.5 h 5.100001 V 7.81626 H 20.8 c -1.319999,0 -2.285593,1.0423171 -2.285593,2.31626 v 2.316259 c 0,1.273944 0.956605,2.545074 2.276604,2.545074 h 7.200001 l 0.009,-2.545074 V 5.5 c 0,-1.2739431 -1.080001,-2.5 -2.4,-2.5 z M 4,5.5 V 7.81626 H 16 V 5.5 Z m 4.8,4.63252 v 2.316259 H 16 V 10.13252 Z m 12,0 h 4.800001 v 2.316259 H 20.8 Z M 18.5,17 v 11.662602 h 2.3 4.800001 c 1.319999,0 2.4,-1.042318 2.4,-2.316261 v -2.31626 c 0,-1.273944 -1.080001,-2.31626 -2.4,-2.31626 H 20.8 V 17 Z M 4,18.239431 v 2.31626 h 12 v -2.31626 z m 7.200001,4.63252 v 2.31626 H 16 v -2.31626 z M 20.8,24.030081 h 4.800001 v 2.31626 H 20.8 Z"
+     d="M 20.029226,3 V 5 H 25 v 2.81626 h -4.967384 c -1.319999,0 -2.003596,0.9704079 -2.003596,2.244351 v 2.316259 c 0,1.273944 0.674608,2.616983 1.994607,2.616983 H 28 l 0.009,-2.545074 V 5.5 C 28.009,4.2260569 26.32001,3 25.000011,3 Z M 4,6 V 8 H 16 V 6 Z m 5,4 v 2 h 7 v -2 z m 11.032616,0.13252 H 25 V 12 H 20.032616 Z M 18,17 v 11 h 2 4.992137 c 1.319999,0 2.040454,-0.379716 2.040454,-1.653659 v -2.31626 c 0,-1.273944 -0.720455,-2.030466 -2.040454,-2.030081 H 20 V 17 Z M 4,18 v 2 h 12 v -2 z m 7,5 v 2 h 5 v -2 z m 9,1.030081 h 4.992137 V 26 H 20 Z"
      id="path2"
      inkscape:connector-curvature="0"
      style="fill:#555753;stroke-width:0.99999994"
