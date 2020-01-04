@@ -1389,8 +1389,6 @@ cmd/lc_thesaurusdialog.png cmd/lc_thesaurus.png
 cmd/sc_thesaurusdialog.png cmd/sc_thesaurus.png
 
 # Print Preview Toolbar
-cmd/lc_showsinglepage.png cmd/lc_adddirect.png
-cmd/sc_showsinglepage.png cmd/sc_adddirect.png
 cmd/lc_closepreview.png cmd/lc_cancel.png
 cmd/sc_closepreview.png cmd/sc_cancel.png
 
