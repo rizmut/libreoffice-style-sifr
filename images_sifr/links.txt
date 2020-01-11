@@ -100,6 +100,7 @@ cmd/lc_insertimagecontrol.png cmd/sc_insertgraphic.png
 cmd/lc_insertobjectchart.png cmd/lc_drawchart.png
 cmd/lc_insertnumericfield.png cmd/lc_numberformatstandard.png
 cmd/lc_insertlistbox.png cmd/lc_listbox.png
+cmd/lc_insertobjectfloatingframe.png cmd/lc_insertframe.png
 cmd/lc_inserttextframe.png cmd/lc_insertframe.png
 cmd/lc_insertobjectstarmath.png cmd/lc_insertmath.png
 cmd/lc_insertpagefield.png cmd/lc_insertpagenumberfield.png
@@ -376,13 +377,10 @@ cmd/lc_importfromfile.png cmd/lc_dataimport.png
 cmd/sc_importfromfile.png cmd/sc_dataimport.png
 
 # Wizard
-cmd/lc_dbnewqueryautopilot.png cmd/lc_autopilotmenu.png
 cmd/lc_graphicfiltertoolbox.png cmd/lc_autopilotmenu.png
 cmd/lc_dbnewtableautopilot.png cmd/lc_autopilotmenu.png
-cmd/lc_dbnewformautopilot.png cmd/lc_autopilotmenu.png
 cmd/lc_commontaskbarvisible.png cmd/lc_autopilotmenu.png
 cmd/lc_newarrangement.png cmd/lc_autopilotmenu.png
-cmd/sc_dbnewqueryautopilot.png cmd/sc_autopilotmenu.png
 cmd/sc_graphicfiltertoolbox.png cmd/sc_autopilotmenu.png
 cmd/sc_dbnewtableautopilot.png cmd/sc_autopilotmenu.png
 cmd/sc_commontaskbarvisible.png cmd/sc_autopilotmenu.png
@@ -424,10 +422,8 @@ cmd/sc_clickchangerotation.png cmd/sc_toggleobjectrotatemode.png
 
 # Edit
 cmd/lc_quickedit.png cmd/lc_editdoc.png
-cmd/lc_renamemasterpage.png cmd/lc_slidemasterpage.png
 cmd/lc_dsbeditdoc.png cmd/lc_editdoc.png
 cmd/sc_solidcreate.png cmd/sc_editdoc.png
-cmd/sc_renamemasterpage.png cmd/sc_slidemasterpage.png
 cmd/sc_quickedit.png cmd/sc_editdoc.png
 cmd/sc_dsbeditdoc.png cmd/sc_editdoc.png
 
@@ -703,11 +699,20 @@ cmd/sc_numberformatcurrency.png cmd/sc_currencyfield.png
 cmd/lc_numberformatcurrencysimple.png cmd/lc_currencyfield.png
 cmd/sc_numberformatcurrencysimple.png cmd/sc_currencyfield.png
 
+# Fontwork
+cmd/32/fontworkshapetype.png cmd/32/fontwork.png
+cmd/lc_fontworkshapetype.png cmd/lc_fontwork.png
+cmd/sc_fontworkshapetype.png cmd/sc_fontwork.png
+
 # Ruler
-cmd/lc_showruler.png cmd/lc_ruler.png
-cmd/sc_showruler.png cmd/sc_ruler.png
+cmd/32/rulermenu.png cmd/32/ruler.png
+cmd/32/showruler.png cmd/32/ruler.png
+
 cmd/lc_rulermenu.png cmd/lc_ruler.png
+cmd/lc_showruler.png cmd/lc_ruler.png
+
 cmd/sc_rulermenu.png cmd/sc_ruler.png
+cmd/sc_showruler.png cmd/sc_ruler.png
 
 # InputLineVisible
 cmd/lc_inputlinevisible.png cmd/lc_dbviewfunctions.png
@@ -928,6 +933,7 @@ dbaccess/res/exinfo.png cmd/sc_helpindex.png
 
 dbaccess/res/form_16.png cmd/sc_dbnewform.png
 dbaccess/res/forms_16.png cmd/sc_open.png
+dbaccess/res/forms_32.png cmd/32/dbviewforms.png
 
 dbaccess/res/lc036.png cmd/lc_dbnewreport.png
 dbaccess/res/lc037.png cmd/lc_delete.png
@@ -940,12 +946,14 @@ dbaccess/res/nu08.png cmd/sc_cancel.png
 
 dbaccess/res/one_left.png cmd/sc_prevrecord.png
 dbaccess/res/one_right.png cmd/sc_nextrecord.png
+dbaccess/res/queries_32.png cmd/32/dbviewqueries.png
 dbaccess/res/jo01.png dbaccess/res/pkey.png
-res/queries_32.png dbaccess/res/queries_32.png
+res/queries_32.png cmd/32/dbviewqueries.png
 
 dbaccess/res/reports_16.png res/sx18013.png
 dbaccess/res/report_16.png cmd/sc_executereport.png
-res/reports_32.png dbaccess/res/reports_32.png
+dbaccess/res/reports_32.png cmd/32/dbviewreports.png
+res/reports_32.png cmd/32/dbviewreports.png
 
 dbaccess/res/sc036.png cmd/sc_executereport.png
 dbaccess/res/sc037.png cmd/sc_delete.png
@@ -1411,10 +1419,6 @@ svx/res/symphony/last_custom_common.png cmd/last_custom_common.png
 # Thesaurus
 cmd/lc_thesaurusdialog.png cmd/lc_thesaurus.png
 cmd/sc_thesaurusdialog.png cmd/sc_thesaurus.png
-
-# Print Preview Toolbar
-cmd/lc_closepreview.png cmd/lc_cancel.png
-cmd/sc_closepreview.png cmd/sc_cancel.png
 
 # Horizontal Text Alignment (align* is in calc and *para is used in writer)
 #cmd/lc_alignleft.png cmd/lc_leftpara.png

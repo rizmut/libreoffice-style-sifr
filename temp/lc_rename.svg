@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="lc_rename.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="714"
+     id="namedview6"
+     showgrid="true"
+     inkscape:zoom="13.906433"
+     inkscape:cx="3.5391854"
+     inkscape:cy="9.3259929"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4">
+    <inkscape:grid
+       type="xygrid"
+       id="grid823" />
+  </sodipodi:namedview>
+  <rect
+     style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect834"
+     width="19"
+     height="11"
+     x="5"
+     y="13"
+     ry="1"
+     rx="1" />
+  <path
+     style="fill:#555753;fill-opacity:1"
+     d="M 22 14 L 7.015625 14.035156 C 6.4616268 14.036556 6.015625 14.481156 6.015625 15.035156 L 6.015625 22.035156 C 6.015625 22.589156 6.4616268 23.03658 7.015625 23.035156 L 22 23 C 22.553998 22.9986 23 22.554 23 22 L 23 15 C 23 14.446 22.553998 13.998576 22 14 z M 7 15 L 10 15 L 10 16 L 9 16 L 9 21 L 10 21 L 10 22 L 7 22 L 7 21 L 8 21 L 8 16 L 7 16 L 7 15 z M 17 15 L 18 15 L 18 17 L 20 17 C 21.10457 17 22 18.119288 22 19.5 C 22 20.880712 21.10457 22 20 22 L 18 22 L 17 22 L 17 15 z M 12 17 L 15 17 C 15.552285 17 16 17.447715 16 18 L 16 22 L 15.5 22 L 12.5 22 C 11.671573 22 11 21.328427 11 20.5 C 11 19.671573 11.671573 19 12.5 19 L 15 19 L 15 18 L 12 18 L 12 17 z M 18 18 L 18 21 L 20 21 C 20.552285 21 21 20.328427 21 19.5 C 21 18.671573 20.552285 18 20 18 L 18 18 z M 12.5 20 C 12.223858 20 12 20.223858 12 20.5 C 12 20.776142 12.223858 21 12.5 21 L 15 21 L 15 20 L 12.5 20 z "
+     id="path2" />
+</svg>

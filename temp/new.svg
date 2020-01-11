@@ -7,13 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="32"
    viewBox="0 0 32 32"
+   width="32"
    version="1.1"
-   id="svg20"
-   sodipodi:docname="datasubtotals.svg"
+   id="svg4"
+   sodipodi:docname="new.svg"
    inkscape:version="0.92.4 (unknown)">
   <metadata
-     id="metadata26">
+     id="metadata10">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -25,7 +27,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs24" />
+     id="defs8" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -37,32 +39,30 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1360"
      inkscape:window-height="714"
-     id="namedview22"
+     id="namedview6"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="14.918362"
-     inkscape:cy="17.576208"
+     inkscape:cx="14.837852"
+     inkscape:cy="6.114831"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g18">
+     inkscape:current-layer="svg4">
     <inkscape:grid
        type="xygrid"
-       id="grid833" />
+       id="grid823" />
   </sodipodi:namedview>
-  <g
-     id="g18"
-     transform="matrix(-1,0,0,1,32,0)"
-     style="fill:#555753">
-    <path
-       d="M 17,3 V 30 H 29 V 3 Z m 2,2 h 3 v 3 h -3 z m 5,0 h 3 v 3 h -3 z m -5,5 h 3 v 3 h -3 z m 5,0 h 3 v 3 h -3 z m -5,5 h 3 v 3 h -3 z m 5,0 h 3 v 3 h -3 z m -5,5 h 3 v 3 h -3 z m 5,0 h 3 v 3 h -3 z m -5,5 h 3 v 3 h -3 z m 5,0 h 3 v 3 h -3 z"
-       id="path2"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#ff00ff"
-       d="M 21,5 23.15625,7.7109375 26.410156,6.75 24.449219,9.6210938 26.367187,12.417969 23.03125,11.439453 21,14 21.03125,10.677734 17.666016,9.5175781 21,8.2519531 Z M 18.253906,11.5 19.5,12.5 5,30 3,28 Z"
-       id="path4"
-       sodipodi:nodetypes="cccccccccccccccc" />
-  </g>
+  <path
+     sodipodi:type="inkscape:offset"
+     inkscape:radius="1"
+     inkscape:original="M 24 20 L 24 23 L 21 23 L 21 26 L 24 26 L 24 29 L 27 29 L 27 26 L 30 26 L 30 23 L 27 23 L 27 20 L 24 20 z "
+     style="fill:#ff00ff;fill-opacity:1"
+     id="path816"
+     d="m 24,19 a 1.0001,1.0001 0 0 0 -1,1 v 2 h -2 a 1.0001,1.0001 0 0 0 -1,1 v 3 a 1.0001,1.0001 0 0 0 1,1 h 2 v 2 a 1.0001,1.0001 0 0 0 1,1 h 3 a 1.0001,1.0001 0 0 0 1,-1 v -2 h 2 a 1.0001,1.0001 0 0 0 1,-1 v -3 a 1.0001,1.0001 0 0 0 -1,-1 h -2 v -2 a 1.0001,1.0001 0 0 0 -1,-1 z" />
+  <path
+     style="fill:#555753;fill-opacity:1"
+     d="m 24,20 v 3 h -3 v 3 h 3 v 3 h 3 v -3 h 3 v -3 h -3 v -3 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccc" />
 </svg>
