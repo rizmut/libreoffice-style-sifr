@@ -67,6 +67,7 @@ cmd/lc_showinlinetooltips.png cmd/lc_editannotation.png
 cmd/sc_showinlinetooltips.png cmd/sc_editannotation.png
 
 # Insert
+cmd/lc_authoritiesentrydialog.png cmd/lc_insertauthorfield.png
 cmd/lc_changesmenu.png cmd/lc_trackchangesbar.png
 cmd/lc_charactermenu.png cmd/lc_fontdialog.png
 cmd/lc_fieldmenu.png cmd/lc_addfield.png
@@ -112,6 +113,7 @@ cmd/lc_insertspreadsheet.png cmd/lc_insert.png
 cmd/lc_inserttimefield.png cmd/lc_timefield.png
 cmd/lc_inserttimefieldfix.png cmd/lc_timefield.png
 
+cmd/sc_authoritiesentrydialog.png cmd/sc_insertauthorfield.png
 cmd/sc_changesmenu.png cmd/sc_trackchangesbar.png
 cmd/sc_charactermenu.png cmd/sc_fontdialog.png
 cmd/sc_fieldmenu.png cmd/sc_addfield.png
@@ -248,6 +250,8 @@ cmd/sc_vscroll.png cmd/sc_scrollbar.png
 cmd/sc_vscrollbar.png cmd/sc_scrollbar.png
 
 # Annotations
+cmd/lc_showannotations.png cmd/lc_showallnotes.png
+cmd/sc_showannotations.png cmd/sc_showallnotes.png
 cmd/sc_insertannotation.png cmd/sc_shownote.png
 cmd/lc_insertannotation.png cmd/lc_shownote.png
 cmd/sc_deletenote.png cmd/sc_deleteannotation.png
@@ -362,7 +366,6 @@ cmd/sc_sendto.png cmd/sc_sendmail.png
 # Folder
 cmd/sc_insertdoc.png cmd/sc_open.png
 cmd/sc_open_h.png cmd/sc_open.png
-cmd/sc_newrecord.png cmd/sc_open.png
 
 # Import
 cmd/lc_importfromfile.png cmd/lc_dataimport.png
@@ -783,6 +786,9 @@ cmd/lc_refreshformcontrol.png cmd/lc_reload.png
 cmd/lc_draw.png cmd/lc_reload.png
 cmd/lc_updateallindexes.png cmd/lc_reload.png
 cmd/lc_updateall.png cmd/lc_reload.png
+cmd/lc_updatealllinks.png cmd/lc_inserthyperlink.png
+cmd/lc_updatecharts.png cmd/lc_drawchart.png
+cmd/lc_repaginate.png cmd/lc_insertpagenumberfield.png
 cmd/sc_refresh.png cmd/sc_reload.png
 cmd/sc_refreshformcontrol.png cmd/sc_reload.png
 cmd/sc_draw.png cmd/sc_reload.png
@@ -1796,3 +1802,8 @@ cmd/sc_com.sun.star.deployment.ui.packagemanagerdialog.png cmd/sc_insertplugin.p
 cmd/sc_badcellstyle.png cmd/sc_badcellstyles.png
 cmd/sc_goodcellstyle.png cmd/sc_goodcellstyles.png
 cmd/sc_neutralcellstyle.png cmd/sc_neutralcellstyles.png
+
+# other
+cmd/32/openxmlfiltersettings.png cmd/32/managexmlsource/png
+cmd/lc_openxmlfiltersettings.png cmd/lc_managexmlsource/png
+cmd/sc_openxmlfiltersettings.png cmd/sc_managexmlsource/png
