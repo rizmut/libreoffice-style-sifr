@@ -1804,6 +1804,6 @@ cmd/sc_goodcellstyle.png cmd/sc_goodcellstyles.png
 cmd/sc_neutralcellstyle.png cmd/sc_neutralcellstyles.png
 
 # other
-cmd/32/openxmlfiltersettings.png cmd/32/managexmlsource/png
-cmd/lc_openxmlfiltersettings.png cmd/lc_managexmlsource/png
-cmd/sc_openxmlfiltersettings.png cmd/sc_managexmlsource/png
+cmd/32/openxmlfiltersettings.png cmd/32/managexmlsource.png
+cmd/lc_openxmlfiltersettings.png cmd/lc_managexmlsource.png
+cmd/sc_openxmlfiltersettings.png cmd/sc_managexmlsource.png
