@@ -58,9 +58,9 @@ cmd/sc_insertmenulegend.png cmd/sc_legend.png
 # Add
 cmd/lc_adddatefield.png cmd/lc_datefield.png
 cmd/lc_addons.png cmd/lc_insertplugin.png
-cmd/lc_addtable.png cmd/lc_inserttable.png
+cmd/lc_addtable.png cmd/lc_dbnewtable.png
 cmd/sc_adddatefield.png cmd/sc_datefield.png
-cmd/sc_addtable.png cmd/sc_inserttable.png
+cmd/sc_addtable.png cmd/sc_dbnewtable.png
 
 # tooltips
 cmd/lc_showinlinetooltips.png cmd/lc_editannotation.png
@@ -360,14 +360,6 @@ cmd/sc_sendfax.png cmd/sc_scan.png
 cmd/sc_sendto.png cmd/sc_sendmail.png
 
 # Folder
-cmd/lc_dbtableopen.png cmd/lc_open.png
-cmd/lc_dbreportopen.png cmd/lc_open.png
-cmd/lc_dbqueryopen.png cmd/lc_open.png
-cmd/lc_dbformopen.png cmd/lc_open.png
-cmd/lc_newrecord.png cmd/lc_open.png
-cmd/sc_dbreportopen.png cmd/sc_open.png
-cmd/sc_dbqueryopen.png cmd/sc_open.png
-cmd/sc_dbformopen.png cmd/sc_open.png
 cmd/sc_insertdoc.png cmd/sc_open.png
 cmd/sc_open_h.png cmd/sc_open.png
 cmd/sc_newrecord.png cmd/sc_open.png
@@ -378,11 +370,9 @@ cmd/sc_importfromfile.png cmd/sc_dataimport.png
 
 # Wizard
 cmd/lc_graphicfiltertoolbox.png cmd/lc_autopilotmenu.png
-cmd/lc_dbnewtableautopilot.png cmd/lc_autopilotmenu.png
 cmd/lc_commontaskbarvisible.png cmd/lc_autopilotmenu.png
 cmd/lc_newarrangement.png cmd/lc_autopilotmenu.png
 cmd/sc_graphicfiltertoolbox.png cmd/sc_autopilotmenu.png
-cmd/sc_dbnewtableautopilot.png cmd/sc_autopilotmenu.png
 cmd/sc_commontaskbarvisible.png cmd/sc_autopilotmenu.png
 
 # Filter
@@ -812,12 +802,8 @@ cmd/lc_drawselect.png cmd/lc_selectobject.png
 cmd/sc_diagramdata.png cmd/sc_viewdatasourcebrowser.png
 cmd/lc_dbnewquerysql.png cmd/lc_sbanativesql.png
 cmd/sc_dbnewquerysql.png cmd/sc_sbanativesql.png
-cmd/lc_dbtableedit.png cmd/lc_tabledialog.png
-cmd/sc_dbtableedit.png cmd/sc_tabledialog.png
-cmd/lc_dbdtableedit.png cmd/lc_tabledialog.png
-cmd/sc_dbdtableedit.png cmd/sc_tabledialog.png
-cmd/lc_dbquerypropertiesdialog.png cmd/lc_dbqueryedit.png
-cmd/sc_dbquerypropertiesdialog.png cmd/sc_dbqueryedit.png
+cmd/lc_dbdtableedit.png cmd/lc_dbtableedit.png
+cmd/sc_dbdtableedit.png cmd/sc_dbtableedit.png
 cmd/lc_dbnewview.png cmd/lc_dbchangedesignmode.png
 cmd/sc_dbnewview.png cmd/sc_dbchangedesignmode.png
 
@@ -840,8 +826,6 @@ cmd/lc_pluginsactive.png cmd/lc_insertplugin.png
 cmd/sc_pluginsactive.png cmd/sc_insertplugin.png
 
 # Table
-cmd/lc_dbnewtable.png cmd/lc_inserttable.png
-cmd/sc_dbnewtable.png cmd/sc_inserttable.png
 cmd/lc_setoptimalcolumnwidthdirect.png cmd/lc_setoptimalcolumnwidth.png
 cmd/sc_setoptimalcolumnwidthdirect.png cmd/sc_setoptimalcolumnwidth.png
 cmd/lc_starchartdialog.png cmd/lc_insertobjectdialog.png
@@ -879,8 +863,6 @@ cmd/lc_showpropbrowser.png cmd/lc_controlproperties.png
 cmd/sc_showpropbrowser.png cmd/sc_controlproperties.png
 cmd/lc_inserttoolbox.png cmd/lc_dataimport.png
 cmd/sc_inserttoolbox.png cmd/sc_dataimport.png
-cmd/lc_dsbinsertcolumns.png cmd/lc_insertfieldctrl.png
-cmd/sc_dsbinsertcolumns.png cmd/sc_insertfieldctrl.png
 cmd/lc_sbabrwinsert.png cmd/lc_insertfieldctrl.png
 cmd/sc_sbabrwinsert.png cmd/sc_insertfieldctrl.png
 
@@ -931,8 +913,8 @@ dbaccess/res/db.png cmd/sc_viewdatasourcebrowser.png
 dbaccess/res/exerror.png cmd/sc_cancel.png
 dbaccess/res/exinfo.png cmd/sc_helpindex.png
 
-dbaccess/res/form_16.png cmd/sc_dbnewform.png
-dbaccess/res/forms_16.png cmd/sc_open.png
+dbaccess/res/form_16.png cmd/sc_dbviewforms.png
+dbaccess/res/forms_16.png cmd/sc_dbviewforms.png
 dbaccess/res/forms_32.png cmd/32/dbviewforms.png
 
 dbaccess/res/lc036.png cmd/lc_dbnewreport.png
@@ -963,7 +945,8 @@ dbaccess/res/sc040.png cmd/sc_reload.png
 
 dbaccess/res/sortdown.png cmd/sc_downsearch.png
 dbaccess/res/sortup.png cmd/sc_upsearch.png
-res/tables_32.png dbaccess/res/tables_32.png
+dbaccess/res/tables_32.png cmd/32/dbviewtables.png
+res/tables_32.png cmd/32/dbviewtables.png
 
 # formula
 # ==============================================
