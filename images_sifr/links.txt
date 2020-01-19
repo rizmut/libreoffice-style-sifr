@@ -50,6 +50,7 @@ cmd/sc_formatselection.png cmd/sc_configuredialog.png
 cmd/sc_insertmenuaxes.png cmd/sc_diagramaxis.png
 cmd/sc_insertmenugrids.png cmd/sc_togglegridhorizontal.png
 cmd/sc_insertmenulegend.png cmd/sc_legend.png
+
 # cmd
 # Add
 cmd/32/adddatefield.png cmd/32/datefield.png
@@ -61,10 +62,12 @@ cmd/lc_addtable.png cmd/lc_dbnewtable.png
 cmd/sc_adddatefield.png cmd/sc_datefield.png
 cmd/sc_addons.png cmd/sc_insertplugin.png
 cmd/sc_addtable.png cmd/sc_dbnewtable.png
+
 # tooltips
 cmd/32/showinlinetooltips.png cmd/32/editannotation.png
 cmd/lc_showinlinetooltips.png cmd/lc_editannotation.png
 cmd/sc_showinlinetooltips.png cmd/sc_editannotation.png
+
 # Insert
 cmd/32/authoritiesentrydialog.png cmd/32/insertauthorfield.png
 cmd/32/changesmenu.png cmd/32/trackchangesbar.png
@@ -214,6 +217,7 @@ cmd/sc_numberingmenu.png cmd/sc_outlinebullet.png
 cmd/sc_paragraphmenu.png cmd/sc_paragraphdialog.png
 cmd/sc_showtrackedchanges.png cmd/sc_addwatch.png
 cmd/sc_tracechangemode.png cmd/sc_trackchanges.png
+
 # Zoom
 cmd/32/adjust.png cmd/32/zoomoptimal.png
 cmd/32/previewzoom.png cmd/32/zoomprevious.png
@@ -236,6 +240,7 @@ cmd/sc_zoommenu.png cmd/sc_zoomoptimal.png
 cmd/sc_zoomminus.png cmd/sc_zoomout.png
 cmd/sc_zoomplus.png cmd/sc_zoomin.png
 cmd/sc_zoomtoolbox.png cmd/sc_zoom.png
+
 # Save
 cmd/32/recsave.png cmd/32/save.png
 cmd/32/savebasicas.png cmd/32/saveas.png
@@ -243,6 +248,7 @@ cmd/lc_recsave.png cmd/lc_save.png
 cmd/lc_savebasicas.png cmd/lc_saveas.png
 cmd/sc_recsave.png cmd/sc_save.png
 cmd/sc_savebasicas.png cmd/sc_saveas.png
+
 # Text
 cmd/32/doubleclicktextedit.png cmd/32/pickthrough.png
 cmd/32/drawtext.png cmd/32/text.png
@@ -423,7 +429,6 @@ cmd/sc_objecttitledescription.png cmd/sc_insertcaptiondialog.png
 
 # shapes
 cmd/32/arrowshapes.left-right-arrow.png cmd/32/arrowshapes.png
-cmd/32/basicshapes.circle-pie.png cmd/32/pie.png
 cmd/32/basicshapes.circle.png cmd/32/circle.png
 cmd/32/basicshapes.parallelogram.png cmd/32/flowchartshapes.flowchart-data.png
 cmd/32/basicshapes.round-rectangle.png cmd/32/rect_rounded.png
@@ -434,7 +439,6 @@ cmd/32/flowchartshapes.flowchart-extract.png cmd/32/basicshapes.isosceles-triang
 cmd/32/flowchartshapes.flowchart-magnetic-disk.png cmd/32/basicshapes.can.png
 cmd/32/flowchartshapes.flowchart-manual-operation.png cmd/32/basicshapes.trapezoid.png
 cmd/32/flowchartshapes.flowchart-merge.png cmd/32/fontworkshapetype.fontwork-triangle-down.png
-cmd/32/flowchartshapes.flowchart-punched-tape.png cmd/32/fontworkshapetype.fontwork-wave.png
 cmd/32/flowchartshapes.png cmd/32/flowchartshapes.flowchart-document.png
 cmd/32/fontworkshapetype.fontwork-circle-pour.png cmd/32/basicshapes.ring.png
 cmd/32/fontworkshapetype.fontwork-fade-down.png cmd/32/basicshapes.trapezoid.png
@@ -442,7 +446,6 @@ cmd/32/fontworkshapetype.fontwork-triangle-up.png cmd/32/basicshapes.isosceles-t
 cmd/32/measureattributes.png cmd/32/measureline.png
 cmd/32/symbolshapes.smiley.png cmd/32/symbolshapes.png
 cmd/lc_arrowshapes.left-right-arrow.png cmd/lc_arrowshapes.png
-cmd/lc_basicshapes.circle-pie.png cmd/lc_pie.png
 cmd/lc_basicshapes.circle.png cmd/lc_circle.png
 cmd/lc_basicshapes.parallelogram.png cmd/lc_flowchartshapes.flowchart-data.png
 cmd/lc_basicshapes.round-rectangle.png cmd/lc_rect_rounded.png
@@ -453,7 +456,6 @@ cmd/lc_flowchartshapes.flowchart-extract.png cmd/lc_basicshapes.isosceles-triang
 cmd/lc_flowchartshapes.flowchart-magnetic-disk.png cmd/lc_basicshapes.can.png
 cmd/lc_flowchartshapes.flowchart-manual-operation.png cmd/lc_basicshapes.trapezoid.png
 cmd/lc_flowchartshapes.flowchart-merge.png cmd/lc_fontworkshapetype.fontwork-triangle-down.png
-cmd/lc_flowchartshapes.flowchart-punched-tape.png cmd/lc_fontworkshapetype.fontwork-wave.png
 cmd/lc_flowchartshapes.png cmd/lc_flowchartshapes.flowchart-document.png
 cmd/lc_fontworkshapetype.fontwork-circle-pour.png cmd/lc_basicshapes.ring.png
 cmd/lc_fontworkshapetype.fontwork-fade-down.png cmd/lc_basicshapes.trapezoid.png
@@ -461,7 +463,6 @@ cmd/lc_fontworkshapetype.fontwork-triangle-up.png cmd/lc_basicshapes.isosceles-t
 cmd/lc_measureattributes.png cmd/lc_measureline.png
 cmd/lc_symbolshapes.smiley.png cmd/lc_symbolshapes.png
 cmd/sc_arrowshapes.left-right-arrow.png cmd/sc_arrowshapes.png
-cmd/sc_basicshapes.circle-pie.png cmd/sc_pie.png
 cmd/sc_basicshapes.circle.png cmd/sc_circle.png
 cmd/sc_basicshapes.parallelogram.png cmd/sc_flowchartshapes.flowchart-data.png
 cmd/sc_basicshapes.round-rectangle.png cmd/sc_rect_rounded.png
@@ -472,7 +473,6 @@ cmd/sc_flowchartshapes.flowchart-extract.png cmd/sc_basicshapes.isosceles-triang
 cmd/sc_flowchartshapes.flowchart-magnetic-disk.png cmd/sc_basicshapes.can.png
 cmd/sc_flowchartshapes.flowchart-manual-operation.png cmd/sc_basicshapes.trapezoid.png
 cmd/sc_flowchartshapes.flowchart-merge.png cmd/sc_fontworkshapetype.fontwork-triangle-down.png
-cmd/sc_flowchartshapes.flowchart-punched-tape.png cmd/sc_fontworkshapetype.fontwork-wave.png
 cmd/sc_flowchartshapes.png cmd/lc_flowchartshapes.flowchart-document.png
 cmd/sc_fontworkshapetype.fontwork-circle-pour.png cmd/sc_basicshapes.ring.png
 cmd/sc_fontworkshapetype.fontwork-fade-down.png cmd/sc_basicshapes.trapezoid.png
@@ -907,13 +907,10 @@ cmd/lc_editlinksmenu.png cmd/lc_insertreferencefield.png
 cmd/sc_editlinksmenu.png cmd/sc_insertreferencefield.png
 
 # Square
-cmd/32/basicshapes.frame.png cmd/32/rect_unfilled.png
 cmd/32/basicshapes.quadrat.png cmd/32/square.png
 cmd/32/flowchartshapes.flowchart-process.png cmd/32/square.png
-cmd/lc_basicshapes.frame.png cmd/lc_rect_unfilled.png
 cmd/lc_basicshapes.quadrat.png cmd/lc_square.png
 cmd/lc_flowchartshapes.flowchart-process.png cmd/lc_square.png
-cmd/sc_basicshapes.frame.png cmd/sc_rect_unfilled.png
 cmd/sc_basicshapes.quadrat.png cmd/sc_square.png
 cmd/sc_flowchartshapes.flowchart-process.png cmd/sc_square.png
 
@@ -1643,7 +1640,7 @@ svx/res/symphony/AdjustColorGreen_16x16.png cmd/sc_grafgreen.png
 svx/res/symphony/AdjustColorRed_16x16.png cmd/sc_grafred.png
 svx/res/symphony/decrease_font.png cmd/sc_shrink.png
 svx/res/symphony/enlarge_font.png cmd/sc_grow.png
-svx/res/symphony/fill_color.png cmd/sc_backgroundpatterncontroller.png
+svx/res/symphony/fill_color.png cmd/sc_backgroundcolor.png
 svx/res/symphony/last_custom_common.png cmd/last_custom_common.png
 svx/res/symphony/last_custom_common.png sw/res/sidebar/pageproppanel/last_custom_common.png
 svx/res/symphony/last_custom_common_grey.png cmd/last_custom_common_grey.png
