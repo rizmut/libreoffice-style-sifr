@@ -73,6 +73,7 @@ cmd/32/authoritiesentrydialog.png cmd/32/insertauthorfield.png
 cmd/32/changesmenu.png cmd/32/trackchangesbar.png
 cmd/32/charactermenu.png cmd/32/fontdialog.png
 cmd/32/fieldmenu.png cmd/32/addfield.png
+cmd/32/formatobjectmenu.png cmd/32/text.png
 cmd/32/graphicmenu.png cmd/32/avmediaplayer.png
 cmd/32/indexesmenu.png cmd/32/insertindexesentry.png
 cmd/32/insertavmedia.png cmd/32/avmediaplayer.png
@@ -107,6 +108,7 @@ cmd/32/insertobjectfloatingframe.png cmd/32/insertframe.png
 cmd/32/insertobjectstarmath.png cmd/32/insertmath.png
 cmd/32/insertpagefield.png cmd/32/insertpagenumberfield.png
 cmd/32/insertpatternfield.png cmd/32/patternfield.png
+cmd/32/insertpivottable.png cmd/32/datadatapilotrun.png
 cmd/32/insertpushbutton.png cmd/32/pushbutton.png
 cmd/32/insertrowbreak.png cmd/32/insertpagebreak.png
 cmd/32/insertrowsmenu.png cmd/32/insertrows.png
@@ -117,12 +119,14 @@ cmd/32/inserttimefieldfix.png cmd/32/timefield.png
 cmd/32/insobjctrl.png cmd/32/adddirect.png
 cmd/32/numberingmenu.png cmd/32/outlinebullet.png
 cmd/32/paragraphmenu.png cmd/32/paragraphdialog.png
+cmd/32/shapesmenu.png cmd/32/basicshapes.pentagon.png
 cmd/32/showtrackedchanges.png cmd/32/addwatch.png
 cmd/32/tracechangemode.png cmd/32/trackchanges.png
 cmd/lc_authoritiesentrydialog.png cmd/lc_insertauthorfield.png
 cmd/lc_changesmenu.png cmd/lc_trackchangesbar.png
 cmd/lc_charactermenu.png cmd/lc_fontdialog.png
 cmd/lc_fieldmenu.png cmd/lc_addfield.png
+cmd/lc_formatobjectmenu.png cmd/lc_text.png
 cmd/lc_graphicmenu.png cmd/lc_avmediaplayer.png
 cmd/lc_indexesmenu.png cmd/lc_insertindexesentry.png
 cmd/lc_insertavmedia.png cmd/lc_avmediaplayer.png
@@ -157,6 +161,7 @@ cmd/lc_insertobjectfloatingframe.png cmd/lc_insertframe.png
 cmd/lc_insertobjectstarmath.png cmd/lc_insertmath.png
 cmd/lc_insertpagefield.png cmd/lc_insertpagenumberfield.png
 cmd/lc_insertpatternfield.png cmd/lc_patternfield.png
+cmd/lc_insertpivottable.png cmd/lc_datadatapilotrun.png
 cmd/lc_insertpushbutton.png cmd/lc_pushbutton.png
 cmd/lc_insertrowbreak.png cmd/lc_insertpagebreak.png
 cmd/lc_insertrowsmenu.png cmd/lc_insertrows.png
@@ -167,12 +172,14 @@ cmd/lc_inserttimefieldfix.png cmd/lc_timefield.png
 cmd/lc_insobjctrl.png cmd/lc_adddirect.png
 cmd/lc_numberingmenu.png cmd/lc_outlinebullet.png
 cmd/lc_paragraphmenu.png cmd/lc_paragraphdialog.png
+cmd/lc_shapesmenu.png cmd/lc_basicshapes.pentagon.png
 cmd/lc_showtrackedchanges.png cmd/lc_addwatch.png
 cmd/lc_tracechangemode.png cmd/lc_trackchanges.png
 cmd/sc_authoritiesentrydialog.png cmd/sc_insertauthorfield.png
 cmd/sc_changesmenu.png cmd/sc_trackchangesbar.png
 cmd/sc_charactermenu.png cmd/sc_fontdialog.png
 cmd/sc_fieldmenu.png cmd/sc_addfield.png
+cmd/sc_formatobjectmenu.png cmd/sc_text.png
 cmd/sc_graphicmenu.png cmd/sc_avmediaplayer.png
 cmd/sc_indexesmenu.png cmd/sc_insertindexesentry.png
 cmd/sc_insertavmedia.png cmd/sc_avmediaplayer.png
@@ -205,6 +212,7 @@ cmd/sc_insertobjectfloatingframe.png cmd/sc_insertframe.png
 cmd/sc_insertobjectstarmath.png cmd/sc_insertmath.png
 cmd/sc_insertpagefield.png cmd/sc_insertpagenumberfield.png
 cmd/sc_insertpatternfield.png cmd/sc_patternfield.png
+cmd/sc_insertpivottable.png cmd/sc_datadatapilotrun.png
 cmd/sc_insertpushbutton.png cmd/sc_pushbutton.png
 cmd/sc_insertrowbreak.png cmd/sc_insertpagebreak.png
 cmd/sc_insertrowsmenu.png cmd/sc_insertrows.png
@@ -215,6 +223,7 @@ cmd/sc_inserttimefieldfix.png cmd/sc_timefield.png
 cmd/sc_insobjctrl.png cmd/sc_adddirect.png
 cmd/sc_numberingmenu.png cmd/sc_outlinebullet.png
 cmd/sc_paragraphmenu.png cmd/sc_paragraphdialog.png
+cmd/sc_shapesmenu.png cmd/sc_basicshapes.pentagon.png
 cmd/sc_showtrackedchanges.png cmd/sc_addwatch.png
 cmd/sc_tracechangemode.png cmd/sc_trackchanges.png
 
@@ -285,6 +294,7 @@ cmd/32/formatbulletsmenu.png cmd/32/defaultbullet.png
 cmd/32/formatframemenu.png cmd/32/framedialog.png
 cmd/32/formatimagemenu.png cmd/32/insertgraphic.png
 cmd/32/formatspacingmenu.png cmd/32/spacepara15.png
+cmd/32/formattextmenu.png cmd/32/scaletext.png
 cmd/32/rowmenu.png cmd/32/entirerow.png
 cmd/32/textalign.png cmd/32/alignblock.png
 cmd/lc_anchormenu.png cmd/lc_toggleanchortype.png
@@ -294,6 +304,7 @@ cmd/lc_formatbulletsmenu.png cmd/lc_defaultbullet.png
 cmd/lc_formatframemenu.png cmd/lc_framedialog.png
 cmd/lc_formatimagemenu.png cmd/lc_insertgraphic.png
 cmd/lc_formatspacingmenu.png cmd/lc_spacepara15.png
+cmd/lc_formattextmenu.png cmd/lc_scaletext.png
 cmd/lc_rowmenu.png cmd/lc_entirerow.png
 cmd/lc_textalign.png cmd/lc_alignblock.png
 cmd/sc_anchormenu.png cmd/sc_toggleanchortype.png
@@ -303,6 +314,7 @@ cmd/sc_formatbulletsmenu.png cmd/sc_defaultbullet.png
 cmd/sc_formatframemenu.png cmd/sc_framedialog.png
 cmd/sc_formatimagemenu.png cmd/sc_insertgraphic.png
 cmd/sc_formatspacingmenu.png cmd/sc_spacepara15.png
+cmd/sc_formattextmenu.png cmd/sc_scaletext.png
 cmd/sc_rowmenu.png cmd/sc_entirerow.png
 cmd/sc_textalign.png cmd/sc_alignblock.png
 
@@ -539,10 +551,13 @@ cmd/sc_defaultparastyle.png cmd/sc_controlcodes.png
 
 # Group
 cmd/32/groupmenu.png cmd/32/formatgroup.png
+cmd/32/groupoutlinemenu.png cmd/32/autooutline.png
 cmd/32/leaveallgroups.png cmd/32/leavegroup.png
 cmd/lc_groupmenu.png cmd/lc_formatgroup.png
+cmd/lc_groupoutlinemenu.png cmd/lc_autooutline.png
 cmd/lc_leaveallgroups.png cmd/lc_leavegroup.png
 cmd/sc_groupmenu.png cmd/sc_formatgroup.png
+cmd/sc_groupoutlinemenu.png cmd/sc_autooutline.png
 cmd/sc_leaveallgroups.png cmd/sc_leavegroup.png
 
 # Undo
@@ -962,8 +977,11 @@ cmd/lc_toggleaxisdescr.png cmd/lc_helplinesvisible.png
 cmd/sc_toggleaxisdescr.png cmd/sc_helplinesvisible.png
 
 # Grid
+cmd/32/gridmenu.png cmd/32/gridvisible.png
 cmd/32/insertgridcontrol.png cmd/32/grid.png
+cmd/lc_gridmenu.png cmd/lc_gridvisible.png
 cmd/lc_insertgridcontrol.png cmd/lc_grid.png
+cmd/sc_gridmenu.png cmd/sc_gridvisible.png
 cmd/sc_insertgridcontrol.png cmd/sc_grid.png
 
 # Extrusion Rotate
@@ -1735,13 +1753,13 @@ cmd/sc_numberliststyle.png cmd/sc_defaultnumbering.png
 # tools menu
 cmd/32/autoformatmenu.png cmd/32/autocorrectdlg.png
 cmd/32/languagemenu.png cmd/32/managelanguage.png
-cmd/32/toolsformsmenu.png cmd/32/dbnewform.png
+cmd/32/toolsformsmenu.png cmd/32/dbviewforms.png
 cmd/lc_autoformatmenu.png cmd/lc_autocorrectdlg.png
 cmd/lc_languagemenu.png cmd/lc_managelanguage.png
-cmd/lc_toolsformsmenu.png cmd/lc_dbnewform.png
+cmd/lc_toolsformsmenu.png cmd/lc_dbviewforms.png
 cmd/sc_autoformatmenu.png cmd/sc_autocorrectdlg.png
 cmd/sc_languagemenu.png cmd/sc_managelanguage.png
-cmd/sc_toolsformsmenu.png cmd/sc_dbnewform.png
+cmd/sc_toolsformsmenu.png cmd/sc_dbviewforms.png
 
 # Writer menu: MSO compatible Form menu
 cmd/32/checkboxformfield.png cmd/32/checkbox.png
@@ -1920,8 +1938,11 @@ cmd/sc_chartmenu.png cmd/sc_drawchart.png
 
 # writer
 cmd/32/addtextbox.png cmd/32/insertfixedtext.png
+cmd/32/scrollbarmenu.png cmd/32/scrollbar.png
 cmd/lc_addtextbox.png cmd/lc_insertfixedtext.png
+cmd/lc_scrollbarmenu.png cmd/lc_scrollbar.png
 cmd/sc_addtextbox.png cmd/sc_insertfixedtext.png
+cmd/sc_scrollbarmenu.png cmd/sc_scrollbar.png
 
 # Sheet
 cmd/32/donation.png cmd/32/currencyfield.png
