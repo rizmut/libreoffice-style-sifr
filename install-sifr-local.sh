@@ -67,10 +67,28 @@ zip -r -D Sifr-SVG-IconSet.oxt *
 mv "Sifr-SVG-IconSet.oxt" \
    "./.."
 cd "./../.."
+#Sifr Dark SVG
+echo "=> Deleting old $gh_desc extension file (Dark SVG) ..."
+cd "images_sifr_dark_svg"
+zip -r -D images_sifr_dark_svg.zip *
+mv "images_sifr_dark_svg.zip" \
+  "./../build/"
+cd "./../build/"
+echo "=> Deleting old $gh_desc extension file (Dark SVG) ..."
+rm -f "Sifr-Dark-SVG-IconSet.oxt"
+echo "=> Create new $gh_desc extension one (Dark SVG) ..."
+cp "images_sifr_dark_svg.zip" \
+   "Sifr-Dark-SVG-IconSet/iconsets"
+cd "./Sifr-Dark-SVG-IconSet"
+zip -r -D Sifr-Dark-SVG-IconSet.oxt *
+mv "Sifr-Dark-SVG-IconSet.oxt" \
+   "./.."
+cd "./../.."
 echo "=> Deleting whole old $gh_desc ..."
 sudo rm -f "/usr/share/libreoffice/share/config/images_sifr.zip"
 sudo rm -f "/usr/share/libreoffice/share/config/images_sifr_dark.zip"
 sudo rm -f "/usr/share/libreoffice/share/config/images_sifr_svg.zip"
+sudo rm -f "/usr/share/libreoffice/share/config/images_sifr_dark_svg.zip"
 echo "=> Installing ..."
 sudo mkdir -p "/usr/share/libreoffice/share/config"
 sudo cp \
@@ -85,7 +103,6 @@ sudo cp \
 sudo cp \
   "build/images_sifr_svg.zip" \
   "/usr/share/libreoffice/share/config"
-rm "images_sifr_dark/links.txt"
 for dir in \
   /usr/lib64/libreoffice/share/config \
   /usr/lib/libreoffice/share/config \
@@ -95,5 +112,6 @@ for dir in \
   sudo ln -sf "/usr/share/libreoffice/share/config/images_sifr.zip" "$dir"
   sudo ln -sf "/usr/share/libreoffice/share/config/images_sifr_dark.zip" "$dir"
   sudo ln -sf "/usr/share/libreoffice/share/config/images_sifr_svg.zip" "$dir"
+  sudo ln -sf "/usr/share/libreoffice/share/config/images_sifr_dark_svg.zip" "$dir"
 done
 echo "=> Done!"
