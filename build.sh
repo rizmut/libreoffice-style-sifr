@@ -76,7 +76,8 @@ cd "./.."
 
 cp -Rf "images_sifr_dark_svg" \
    "images_sifr_dark"
-cp "images_sifr/links.txt images_sifr_dark"
+cp "images_sifr/links.txt" \
+   "images_sifr_dark"
 cd "images_sifr_dark" 
 
 echo "=> Export dark SVG to PNG ..."
