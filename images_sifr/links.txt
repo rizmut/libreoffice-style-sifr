@@ -1342,21 +1342,18 @@ cmd/32/dsbdocumentdatasource.png cmd/32/sbaexecutesql.png
 cmd/32/inserttoolbox.png cmd/32/dataimport.png
 cmd/32/savesimple.png cmd/32/save.png
 cmd/32/sbabrwinsert.png cmd/32/insertfieldctrl.png
-cmd/32/setreminder.png cmd/32/timefield.png
 cmd/32/showbrowser.png cmd/32/controlproperties.png
 cmd/32/showpropbrowser.png cmd/32/controlproperties.png
 cmd/lc_dsbdocumentdatasource.png cmd/lc_sbaexecutesql.png
 cmd/lc_inserttoolbox.png cmd/lc_dataimport.png
 cmd/lc_savesimple.png cmd/lc_save.png
 cmd/lc_sbabrwinsert.png cmd/lc_insertfieldctrl.png
-cmd/lc_setreminder.png cmd/lc_timefield.png
 cmd/lc_showbrowser.png cmd/lc_controlproperties.png
 cmd/lc_showpropbrowser.png cmd/lc_controlproperties.png
 cmd/sc_dsbdocumentdatasource.png cmd/sc_sbaexecutesql.png
 cmd/sc_inserttoolbox.png cmd/sc_dataimport.png
 cmd/sc_savesimple.png cmd/sc_save.png
 cmd/sc_sbabrwinsert.png cmd/sc_insertfieldctrl.png
-cmd/sc_setreminder.png cmd/sc_timefield.png
 cmd/sc_showbrowser.png cmd/sc_controlproperties.png
 cmd/sc_showpropbrowser.png cmd/sc_controlproperties.png
 
@@ -2002,6 +1999,7 @@ sw/res/sc20174.png cmd/sc_upsearch.png
 sw/res/sc20177.png cmd/sc_insertpagefooter.png
 sw/res/sc20179.png cmd/sc_insertpageheader.png
 sw/res/sc20182.png cmd/sc_toggleanchortype.png
+sw/res/sc20183.png cmd/sc_setreminder.png
 sw/res/sc20233.png cmd/sc_ok.png
 sw/res/sc20234.png cmd/sc_datafilterstandardfilter.png
 sw/res/sc20235.png cmd/sc_inserthyperlink.png
@@ -2036,7 +2034,7 @@ sw/res/sr20009.png cmd/sc_insertgraphic.png
 sw/res/sr20010.png cmd/sc_objectmenue.png
 sw/res/sr20011.png sw/res/nc20000.png
 sw/res/sr20013.png cmd/sc_insertfootnote.png
-sw/res/sr20014.png sw/res/sc20183.png
+sw/res/sr20014.png cmd/sc_setreminder.png
 sw/res/sr20015.png cmd/sc_shownote.png
 sw/res/sr20016.png cmd/sc_recsearch.png
 sw/res/sr20017.png cmd/sc_insertindexesentry.png

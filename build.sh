@@ -7,11 +7,33 @@ then
     exit 1
 fi
 
-echo "=> Remove old PNG both light and dark version"
+if ! command -v svgcleaner >/dev/null
+then
+    echo "Please install svgcleaner"
+    exit 1
+fi
+
+echo "=> Remove old both light and dark version"
 cp "images_sifr/links.txt" \
    "images_sifr_svg"
 rm -Rf "images_sifr"
 rm -Rf "images_sifr_dark"
+rm -Rf "images_sifr_dark_svg"
+
+cd "images_sifr_svg"
+
+echo "=> Clean SVG files ..."
+find -name "*.svg" -o -name "*.SVG" | while read i;
+do 
+	echo "This $i file is compressed"
+	fname=$( basename "$i")
+#	echo "has the name: $fname"
+	fdir=$( dirname "$i")
+#	echo "and is in the directory: ${fdir##*/}"
+	svgcleaner "$i" "${i%.*}.svg"
+done
+
+cd "./.."
 
 cp -Rf "images_sifr_svg" \
    "images_sifr"
