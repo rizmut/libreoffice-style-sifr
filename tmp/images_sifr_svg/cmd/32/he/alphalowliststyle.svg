@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="alphalowliststyle.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="32"
+   height="32">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     id="namedview6"
+     showgrid="true"
+     inkscape:zoom="13.906434"
+     inkscape:cx="6.9989431"
+     inkscape:cy="17.94"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4"
+     inkscape:pagecheckerboard="false"
+     inkscape:snap-global="true"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid836"
+       spacingx="0.5"
+       spacingy="0.5"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <path
+     d="M 20.029226,3 V 5 H 25 v 2.81626 h -4.967384 c -1.319999,0 -2.003596,0.9704079 -2.003596,2.244351 v 2.316259 c 0,1.273944 0.674608,2.616983 1.994607,2.616983 H 28 l 0.009,-2.545074 V 5.5 C 28.009,4.2260569 26.32001,3 25.000011,3 Z M 4,6 V 8 H 16 V 6 Z m 5,4 v 2 h 7 v -2 z m 11.032616,0.13252 H 25 V 12 H 20.032616 Z M 18,17 v 11 h 2 4.992137 c 1.319999,0 2.040454,-0.379716 2.040454,-1.653659 v -2.31626 c 0,-1.273944 -0.720455,-2.030466 -2.040454,-2.030081 H 20 V 17 Z M 4,18 v 2 h 12 v -2 z m 7,5 v 2 h 5 v -2 z m 9,1.030081 h 4.992137 V 26 H 20 Z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#555753;stroke-width:0.99999994"
+     sodipodi:nodetypes="ccccssssccsscccccccccccccccccccsssscccccccccccccccccc" />
+</svg>
