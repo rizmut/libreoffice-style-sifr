@@ -98,10 +98,10 @@ sudo cp \
   "build/images_sifr_dark.zip" \
   "/usr/share/libreoffice/share/config"
 sudo cp \
-  "build/images_sifr.zip" \
+  "build/images_sifr_svg.zip" \
   "/usr/share/libreoffice/share/config"
 sudo cp \
-  "build/images_sifr_svg.zip" \
+  "build/images_sifr_dark_svg.zip" \
   "/usr/share/libreoffice/share/config"
 for dir in \
   /usr/lib64/libreoffice/share/config \

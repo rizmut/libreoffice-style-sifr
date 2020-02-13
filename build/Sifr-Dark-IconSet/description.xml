@@ -4,9 +4,9 @@
  xmlns:dep="http://openoffice.org/extensions/description/2006"
  xmlns:lo="http://libreoffice.org/extensions/description/2011"
  xmlns:xlink="http://www.w3.org/1999/xlink">
-    <identifier value="org.iconset.sifr"/>
+    <identifier value="org.iconset.sifrdark"/>
 	<version value="6.1.0"/>
-    <display-name name="Sifr Icon Set"/>
+    <display-name name="Sifr Dark Icon Set"/>
     <dependencies>
         <lo:LibreOffice-minimal-version d:name="LibreOffice 6.0" value="6.0"/>
     </dependencies>
