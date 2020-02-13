@@ -2,8 +2,8 @@
 
 set -e
 
-gh_repo="libreoffice-style-karasa-jaga"
-gh_desc="Karasa Jaga LibreOffice icon themes"
+gh_repo="libreoffice-style-sifr"
+gh_desc="Sifr LibreOffice icon themes"
 
 cat <<- EOF
 
