@@ -15,6 +15,11 @@ Use the script to install the latest version directly from this repo (independen
 ```
 curl -s https://raw.githubusercontent.com/rizmut/libreoffice-style-sifr/master/install-sifr.sh | sh
 ```
+Otherwise, if you have cloned this repo, just use local installer script (don't forget to change /path/to to your real path directory to the repo):
+
+```
+cd /path/to/libreoffice-style-sifr && sh install-sifr-local.sh
+```
 ### Remove
 ```
 curl -s https://raw.githubusercontent.com/rizmut/libreoffice-style-sifr/master/remove-sifr.sh | sh
