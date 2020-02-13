@@ -13,7 +13,7 @@ This repository is used as a backup as well as a source of checks for the most u
 
 Use the script to install the latest version directly from this repo (independently on your distro):
 ```
-curl -s https://raw.githubusercontent.com/rizmut/libreoffice-style-sifr/master/install-sifr-local.sh | sh
+curl -s https://raw.githubusercontent.com/rizmut/libreoffice-style-sifr/master/install-sifr.sh | sh
 ```
 ### Remove
 ```
