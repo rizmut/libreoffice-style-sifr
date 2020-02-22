@@ -88,8 +88,8 @@ do
 	sed -i -e 's/#7a7e79/#858186/g' "$i"
 	sed -i -e 's/#9d9f9a/#626065/g' "$i"
 	sed -i -e 's/#d9d9d7/#262628/g' "$i"
-	sed -i -e 's/#000000/#ffffff/g' "$i"
-	sed -i -e 's/#ffffff/#000000/g' "$i"
+	sed -i -e 's/#000/#fff/g' "$i"
+	sed -i -e 's/#fff/#000/g' "$i"
 	#convert "$i" -quality 75 "$i"
 done 
 
