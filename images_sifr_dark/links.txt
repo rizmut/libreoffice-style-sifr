@@ -629,7 +629,8 @@ cmd/id/sc_numberformatdecdecimals.png cmd/de/sc_numberformatdecdecimals.png
 cmd/id/sc_numberformatdecimal.png cmd/de/sc_numberformatdecimal.png
 cmd/id/sc_numberformatincdecimals.png cmd/de/sc_numberformatincdecimals.png
 cmd/id/sc_numberformatthousands.png cmd/de/sc_numberformatthousands.png
-cmd/id/sc_numberformatincdecimals.png cmd/de/sc_numberformatincdecimals.png
+cmd/lc_underlinesimple.png cmd/lc_underline.png
+cmd/sc_underlinesimple.png cmd/sc_underline.png
 cmd/ur/lc_alphaliststyle.png cmd/ar/lc_alphaliststyle.png
 cmd/ur/lc_alphalowliststyle.png cmd/ar/lc_alphalowliststyle.png
 cmd/ur/lc_bulletliststyle.png cmd/ar/lc_defaultbullet.png
@@ -1574,7 +1575,7 @@ cmd/sc_setdefault.png cmd/sc_resetattributes.png
 
 # Impress
 sfx2/res/symphony/sidebar-transition-small.png cmd/sc_slidechangewindow.png
-sfx2/res/symphony/sidebar-transition-large.png cmd/lc_slidechangewindow.png
+sfx2/res/symphony/sidebar-transition-large.png cmd/lc_slidechangew
 
 # navigator
 cmd/32/dsbdocumentdatasource.png cmd/32/sbaexecutesql.png
@@ -1765,7 +1766,7 @@ res/lx03256.png cmd/lc_insertplugin.png
 res/mainapp_16_8.png cmd/sc_adddirect.png
 res/mainapp_32.png res/mainapp_32_8.png
 res/newdoc.png cmd/sc_open.png
-res/oleobj.png cmd/32/insertobject.png
+res/oleobj.png cmd/32/objectmenu.png
 res/page.png cmd/sc_adddirect.png
 res/plugin.png cmd/lc_insertplugin.png
 res/printeradmin_16_8.png res/printeradmin_16.png
@@ -1903,7 +1904,7 @@ sd/res/nv05.png cmd/sc_nextrecord.png
 sd/res/nv06.png cmd/sc_lastrecord.png
 sd/res/nv08.png cmd/sc_copy.png
 sd/res/nv09.png cmd/sc_insertbookmark.png
-sd/res/ole.png cmd/sc_insertobject.png
+sd/res/ole.png cmd/sc_objectmenu.png
 sd/res/page.png cmd/sc_adddirect.png
 sd/res/pipette.png cmd/lc_bmpmask.png
 sd/res/playblue_16.png cmd/sc_runbasic.png
@@ -2228,7 +2229,7 @@ sw/res/lc20558.png cmd/lc_ok.png
 sw/res/nc20001.png cmd/sc_inserttable.png
 sw/res/nc20002.png cmd/sc_insertframe.png
 sw/res/nc20003.png cmd/sc_insertgraphic.png
-sw/res/nc20004.png cmd/sc_objectmenue.png
+sw/res/nc20004.png cmd/sc_objectmenu.png
 sw/res/nc20005.png cmd/sc_insertbookmark.png
 sw/res/nc20006.png cmd/sc_insertsection.png
 sw/res/nc20007.png cmd/sc_inserthyperlink.png
@@ -2282,7 +2283,7 @@ sw/res/sr20006.png cmd/sc_controlproperties.png
 sw/res/sr20007.png cmd/sc_insertsection.png
 sw/res/sr20008.png cmd/sc_insertbookmark.png
 sw/res/sr20009.png cmd/sc_insertgraphic.png
-sw/res/sr20010.png cmd/sc_objectmenue.png
+sw/res/sr20010.png cmd/sc_objectmenu.png
 sw/res/sr20011.png sw/res/nc20000.png
 sw/res/sr20013.png cmd/sc_insertfootnote.png
 sw/res/sr20014.png cmd/sc_setreminder.png

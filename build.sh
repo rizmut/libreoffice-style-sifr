@@ -79,8 +79,7 @@ do
 	#inkscape -f "$i" -e "${i%.*}.png"
 	sed -i -e 's/#555753/#aaa8ac/g' "$i"
 # for res/chart2
-    sed -i -e 's/#232629/#aaa8ac/g' "$i"
-	sed -i -e 's/#545853/#aba7ac/g' "$i" 
+    sed -i -e 's/#545853/#aba7ac/g' "$i" 
 	sed -i -e 's/#bbbcb8/#444347/g' "$i"
 	sed -i -e 's/#babbb7/#454448/g' "$i"
 	sed -i -e 's/#232629/#dcd9d6/g' "$i"
