@@ -1575,7 +1575,7 @@ cmd/sc_setdefault.png cmd/sc_resetattributes.png
 
 # Impress
 sfx2/res/symphony/sidebar-transition-small.png cmd/sc_slidechangewindow.png
-sfx2/res/symphony/sidebar-transition-large.png cmd/lc_slidechangew
+sfx2/res/symphony/sidebar-transition-large.png cmd/lc_slidechangewindow.png
 
 # navigator
 cmd/32/dsbdocumentdatasource.png cmd/32/sbaexecutesql.png
