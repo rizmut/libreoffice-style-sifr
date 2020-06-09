@@ -16,9 +16,9 @@ EOF
 temp_dir="$(mktemp -d)"
 
 # Sifr
-cd "images_sifr"
+cd "sifr"
 cp "links.txt" \
-   "../images_sifr_dark"
+   "../sifr_dark"
 zip -r -D images_sifr.zip *
 mv "images_sifr.zip" \
   "./../build/"
@@ -35,7 +35,7 @@ mv "Sifr-IconSet.oxt" \
 cd "./../.."
 # Sifr Dark
 echo "=> Deleting old $gh_desc extension file (dark) ..."
-cd "images_sifr_dark"
+cd "sifr_dark"
 zip -r -D images_sifr_dark.zip *
 mv "images_sifr_dark.zip" \
   "./../build/"
@@ -52,7 +52,7 @@ mv "Sifr-Dark-IconSet.oxt" \
 cd "./../.."
 #Sifr SVG
 echo "=> Deleting old $gh_desc extension file (SVG) ..."
-cd "images_sifr_svg"
+cd "sifr_svg"
 zip -r -D images_sifr_svg.zip *
 mv "images_sifr_svg.zip" \
   "./../build/"
@@ -69,7 +69,7 @@ mv "Sifr-SVG-IconSet.oxt" \
 cd "./../.."
 #Sifr Dark SVG
 echo "=> Deleting old $gh_desc extension file (Dark SVG) ..."
-cd "images_sifr_dark_svg"
+cd "sifr_dark_svg"
 zip -r -D images_sifr_dark_svg.zip *
 mv "images_sifr_dark_svg.zip" \
   "./../build/"

@@ -14,13 +14,13 @@ then
 fi
 
 echo "=> Remove old both light and dark version"
-cp "images_sifr/links.txt" \
-   "images_sifr_svg"
-rm -Rf "images_sifr"
-rm -Rf "images_sifr_dark"
-rm -Rf "images_sifr_dark_svg"
+cp "sifr/links.txt" \
+   "sifr_svg"
+rm -Rf "sifr"
+rm -Rf "sifr_dark"
+rm -Rf "sifr_dark_svg"
 
-cd "images_sifr_svg"
+cd "sifr_svg"
 
 echo "=> Clean SVG files ..."
 find -name "*.svg" -o -name "*.SVG" | while read i;
@@ -35,10 +35,10 @@ done
 
 cd "./.."
 
-cp -Rf "images_sifr_svg" \
-   "images_sifr"
-rm "images_sifr_svg/links.txt"
-cd "images_sifr"
+cp -Rf "sifr_svg" \
+   "sifr"
+rm "sifr_svg/links.txt"
+cd "sifr"
 
 echo "=> 1. sifr PNG (light) version"
 echo "=> Export light SVG to PNG ..."
@@ -65,9 +65,9 @@ done
 echo "=> 2. sifr SVG (dark) version"
 cd "./.."
 
-cp -Rf "images_sifr_svg" \
-   "images_sifr_dark_svg"
-cd "images_sifr_dark_svg"   
+cp -Rf "sifr_svg" \
+   "sifr_dark_svg"
+cd "sifr_dark_svg"   
 
 find -name "*.svg" -o -name "*.SVG" | while read i;
 do 
@@ -95,11 +95,11 @@ done
 echo "=> 3. sifr PNG (dark) version"
 cd "./.."
 
-cp -Rf "images_sifr_dark_svg" \
-   "images_sifr_dark"
-cp "images_sifr/links.txt" \
-   "images_sifr_dark"
-cd "images_sifr_dark" 
+cp -Rf "sifr_dark_svg" \
+   "sifr_dark"
+cp "sifr/links.txt" \
+   "sifr_dark"
+cd "sifr_dark" 
 
 echo "=> Export dark SVG to PNG ..."
 find -name "*.svg" -o -name "*.SVG" | while read i;
