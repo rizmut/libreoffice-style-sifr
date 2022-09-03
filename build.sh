@@ -49,7 +49,7 @@ do
 #	echo "has the name: $fname"
 	fdir=$( dirname "$i")
 #	echo "and is in the directory: ${fdir##*/}"
-	inkscape -f "$i" -e "${i%.*}.png"
+	inkscape -p "$i" -o "${i%.*}.png"
 	optipng -o7 "${i%.*}.png"
 	#convert "$i" -quality 75 "$i"
 done
@@ -76,7 +76,7 @@ do
 #	echo "has the name: $fname"
 	fdir=$( dirname "$i")
 #	echo "and is in the directory: ${fdir##*/}"
-	#inkscape -f "$i" -e "${i%.*}.png"
+	#inkscape -p "$i" -o "${i%.*}.png"
 	sed -i -e 's/#555753/#aaa8ac/g' "$i"
 # for res/chart2
     sed -i -e 's/#545853/#aba7ac/g' "$i" 
@@ -109,7 +109,7 @@ do
 #	echo "has the name: $fname"
 	fdir=$( dirname "$i")
 #	echo "and is in the directory: ${fdir##*/}"
-	inkscape -f "$i" -e "${i%.*}.png"
+	inkscape -p "$i" -o "${i%.*}.png"
 	optipng -o7 "${i%.*}.png"
 	#convert "$i" -quality 75 "$i"
 done 
