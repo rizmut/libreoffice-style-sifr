@@ -77,7 +77,7 @@ do
 	fdir=$( dirname "$i")
 #	echo "and is in the directory: ${fdir##*/}"
 	#inkscape -p "$i" -o "${i%.*}.png"
-	sed -i -e 's/#555753/#aaa8ac/g' "$i"
+	sed -i -e 's/#2e3436/#efefef/g' "$i"
 # for res/chart2
     sed -i -e 's/#545853/#aba7ac/g' "$i" 
 	sed -i -e 's/#bbbcb8/#444347/g' "$i"
@@ -87,8 +87,9 @@ do
 	sed -i -e 's/#7a7e79/#858186/g' "$i"
 	sed -i -e 's/#9d9f9a/#626065/g' "$i"
 	sed -i -e 's/#d9d9d7/#262628/g' "$i"
-	sed -i -e 's/#000/#fff/g' "$i"
-	sed -i -e 's/#fff/#000/g' "$i"
+	sed -i -e 's/#fafafa/#353535/g' "$i"
+	sed -i -e 's/#242424/#fafafa/g' "$i"
+	sed -i -e 's/#353535/#242424/g' "$i"
 	#convert "$i" -quality 75 "$i"
 done 
 
